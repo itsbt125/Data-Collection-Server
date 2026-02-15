@@ -1,0 +1,1 @@
+This is a small project of mine to gain experience with FastAPI and asynchronous programming. The server is designed to recieve logs via and endpoint that are size limited and protected via rate limiting, it can be used as a point for exfilitrating data.  I''l leave it up to you on the client sided code to send data.
